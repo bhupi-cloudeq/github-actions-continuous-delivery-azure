@@ -6,6 +6,7 @@ on:
     - master
   pull_request:
 
+
 env:
   DOCKER_IMAGE_NAME: bhupi-cloudeq-azure-ttt
   IMAGE_REGISTRY_URL: docker.pkg.github.com
